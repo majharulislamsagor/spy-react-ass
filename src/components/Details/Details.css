@@ -1,0 +1,16 @@
+.selected-people-image {
+  height: 50px;
+  width: 50px;
+  border-radius: 10px;
+}
+.selected-member {
+  height: 50px;
+  width: 200px;
+  border-radius: 10px;
+  background-color: rgb(169, 230, 3);
+  color: rgb(71, 3, 3);
+}
+.selected-member:hover {
+  background-color: rgb(5, 250, 177);
+  transition: background-color 0.3s;
+}
